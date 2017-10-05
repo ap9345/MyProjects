@@ -1,1 +1,1 @@
-# MyProjectetsy
+This program picks up a dictionary word from a file and then picks up a random word and the player has 9 tries to guess the characters of the word. The game is over, when the every character of the word has been guessed. This program will show a scene, and after every wrong guess some parts of the scene will disappear. The scene will completely disappeared after 9 guesses and your result will be shown.
